@@ -1,1 +1,1 @@
-# JaveSE Handbook
+# Java Handbook
